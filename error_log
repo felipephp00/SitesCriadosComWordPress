@@ -1,0 +1,111 @@
+[28-Feb-2022 16:05:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:05:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:19:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:20:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:22:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:22:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:22:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-login.php(12): require('/home1/helpd450...')
+#7 {main}
+  thrown in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
+[28-Feb-2022 16:22:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Rocket\Plugin' not found in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php:44
+Stack trace:
+#0 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(307): rocket_init('')
+#1 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-settings.php(450): do_action('plugins_loaded')
+#4 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-config.php(96): require_once('/home1/helpd450...')
+#5 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-load.php(50): require_once('/home1/helpd450...')
+#6 /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-blog-header.php(13): require_once('/home1/helpd450...')
+#7 /home1/helpd450/githubprojeto1 in /home1/helpd450/githubprojeto1.helpdeskmc.com.br/menutri/wp-content/plugins/wp-rocket-develop/inc/main.php on line 44
